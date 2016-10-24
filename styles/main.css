@@ -1,0 +1,17 @@
+.row img {
+	width: 100%;
+}
+
+.card {
+	display: block;
+	border: 1px solid gray;
+	width: 100%;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+.header {
+	background-color: #d8a850;
+}
